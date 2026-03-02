@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Build output
+dist/
+
+# Gemini CLI
+.gemini/
+.gemini-cli-history
+.gemini-cli-temp-project
+.gemini-cli-logs
+tmp/
+
+# Editor/OS files
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Build script
+build.js
